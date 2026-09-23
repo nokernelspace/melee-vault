@@ -1,0 +1,10 @@
+- Edge Cancel + Smash
+- Shine + Double Jump + D-aerial
+- Yoshi/Battlefield Edge Aerial Jump + Smash
+- Pivot + Smash
+- Auto-cancel
+- Edge-cancel on every stage
+- Buffer up-tilt after wavedash
+- Buffer waveland up-tilt
+- Buffer? Empty hop-up tilt
+- Buffer???? empty hop fast-fall up-tilt
