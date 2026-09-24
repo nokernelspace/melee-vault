@@ -1,0 +1,5 @@
+- practice rolling from edge, different positions
+- edge shine d-aerial, different positions
+- cover Falco Side-B, different positions
+- Hit box select
+- Vibration magnitude increased on grounded hit

@@ -1,0 +1,4 @@
+- Smash attacks are risky, run away after (fear)
+- After a late aerial go for Shine + Grab
+- Say nice reaction, say nice read
+- Go for moves that might work

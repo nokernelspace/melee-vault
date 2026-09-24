@@ -1,0 +1,3 @@
+- everyone has 2 defensive options under pressure: jump, shield, or grab
+- everyone has 2 offensive options out of punish: grab, roll, jump attack, empty hop
+- you can buffer in-game and in-your head
