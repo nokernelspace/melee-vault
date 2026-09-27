@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Secrets.md",
+                "file": "Cheating.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secrets"
+              "title": "Cheating"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Secrets.md",
+                "file": "Cheating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Secrets.md",
+                "file": "Cheating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Secrets.md",
+                "file": "Cheating.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -210,10 +210,26 @@
   },
   "active": "73ae69a3e0b95c96",
   "lastOpenFiles": [
-    "Welcome-2.md",
+    "Matchups/Untitled.md",
+    "Cheating.md",
+    "Labbing/Punish.md",
+    "Labbing/Action.md",
+    "Labbing/Edge Options.md",
+    "Practice/Training Mode.md",
+    "Practice/Yaros.md",
+    "Practice/20XX.md",
     "Secrets.md",
-    "Secrets-2.md",
+    "Matchups/Icies.md",
+    "Matchups/Fox.md",
+    "Playstyle/Habits.md",
+    "Matchups",
+    "Untitled.md",
+    "Playstyle/Friendlies.md",
+    "Bad Habits.md",
     "Characters/Bowser.md",
+    "Characters/Bowser.md",
+    "Welcome-2.md",
+    "Secrets-2.md",
     "Cheating-2.md",
     "Bowser-2.md",
     "Bad Habits-2.md",
@@ -221,31 +237,15 @@
     "Characters-2/Captain Falcon.md",
     "Secrets-4.md",
     "Characters/Ganondorf.md",
-    "Welcome-4.md",
-    "Welcome-3.md",
-    "Shitlist/Zain.md",
-    "Shitlist/Cody.md",
-    "Shitlist/Mang0.md",
     "Shitlist",
-    "Shitlist-3/Cody.md",
-    "Shitlist-3/Zain.md",
-    "Shitlist-3/Mang0.md",
     "Shitlist-3",
-    "Shitlist-2/Zain.md",
-    "Shitlist-2/Mang0.md",
-    "Shitlist-2/Cody.md",
     "Shitlist-2",
-    "Secrets-3.md",
-    "Practice-4/Yaros.md",
-    "Practice-4/Vanilla.md",
-    "Practice-4/Training Mode.md",
     "Practice-4",
     "Practice-3",
     "Practice-2",
     "Playstyle-4",
     "Playstyle-3",
     "Playstyle-2",
-    "Labbing-4",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/social-image-preview-light.png",

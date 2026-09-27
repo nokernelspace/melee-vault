@@ -1,3 +1,4 @@
 - practice rolling from edge, different positions
 - edge shine d-aerial, different positions
 - cover Falco Side-B, different positions
+- pay attention to where you're facing, make CPU always getup attack (ideally marth) so that you need to focus on the opponent's position 

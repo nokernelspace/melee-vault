@@ -1,3 +1,7 @@
 - everyone has 2 defensive options under pressure: jump, shield, or grab
 - everyone has 2 offensive options out of punish: grab, roll, jump attack, empty hop
 - you can buffer in-game and in-your head
+- Online has AT LEAST a 4 frame buffer window. There is more with hitbox, hurtbox, and ECB interpolation
+- unranked has a ladder
+- there are separate queues so newbies don't quit the game
+- Slippi hands out suspensions and bans to players who use controller macros and other cheat mods that cause desync

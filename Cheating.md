@@ -1,5 +1,7 @@
-- controller fuzzing
+- analog stick fuzzing
+- analog stick specific direction fuzzing
 - Different scale analog stick
 - no macros: buttons that do other other vanilla buttons (buttons that do other buttons)
 	- analog stick is fair game
 	- Matchup hacks are fair game
+- f-smash with low-probability while holding C-stick (snapback)
