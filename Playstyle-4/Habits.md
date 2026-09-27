@@ -1,2 +1,0 @@
-- Grounded jump cancel shine => Settle for an aerial 
-- lowest possible aerial => if late go for shine grab

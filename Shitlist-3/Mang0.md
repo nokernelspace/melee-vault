@@ -1,3 +1,0 @@
-- hold forward
-- take control over him
-- Play faster than him

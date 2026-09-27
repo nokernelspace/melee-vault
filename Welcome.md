@@ -5,6 +5,7 @@
 # 
 - All characters have a hitbox and a hurtbox
 
+# Philosophy
 
 Offensive Punish: openers
 Defensive Punish: predicting their moves
